@@ -1,5 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mateusz! 👋
 
+I am a 2nd-year Industry 5.0 Technologies student at Gdańsk University of Technology. 
+I focus heavily on Data Science, Machine Learning, and IoT systems.
+
+## 🛠️ Technologies & Tools
+- **Data & Analyst:** Python (Pandas, NumPy, Scikit-learn), SQL, MS Excel
+- **IoT & Hardware:** C/C++, PLC Programming
+- **Web Development:** HTML5, CSS3, JavaScript
+
+## 📈 My Goals
+- Currently exploring advanced Machine Learning models and Data Engineering tools.
+- Open for Internship or Junior roles in Gdańsk or Remote.
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mateusz-abrahamowicz-06496824a/) | matabra06@gmail.com
 <!--
 **MatAbra06/MatAbra06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
