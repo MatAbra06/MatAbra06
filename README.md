@@ -12,7 +12,7 @@ I focus heavily on Data Science, Machine Learning, and IoT systems.
 - Currently exploring advanced Machine Learning models and Data Engineering tools.
 - Open for Internship or Junior roles in Gdańsk or Remote.
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mateusz-abrahamowicz-06496824a/) | matabra06@gmail.com
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mateusz-abrahamowicz-06it/) | matabra06@gmail.com
 <!--
 **MatAbra06/MatAbra06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
