@@ -1,11 +1,10 @@
 # Hi there, I'm Mateusz! 👋
 
 I am a 2nd-year Industry 5.0 Technologies student at Gdańsk University of Technology. 
-I focus heavily on Data Science, Machine Learning, and IoT systems.
+I focus heavily on Data Science and Machine Learning.
 
 ## 🛠️ Technologies & Tools
 - **Data & Analyst:** Python (Pandas, NumPy, Scikit-learn), SQL, MS Excel
-- **IoT & Hardware:** C/C++, PLC Programming
 - **Web Development:** HTML5, CSS3, JavaScript
 
 ## 📈 My Goals
